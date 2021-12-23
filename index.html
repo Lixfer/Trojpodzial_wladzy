@@ -18,17 +18,21 @@
             margin-top: 50px;
         }
         
-        button {
+        .flex-container>div {
             border: none;
             background-color: grey;
             text-align: center;
             size: 40px;
             font-size: large;
             padding: 15px 35px;
-            margin: 0px;
             border-radius: 15px;
+            width: 100px;
+        }
+        
+        .flex-container {
             display: flex;
             flex-direction: column;
+            width: 100px;
         }
         
         h2,
@@ -46,10 +50,10 @@
         Trójpodział władzy to model organizacji państwa, w którym funkcje ustawodawcze, wykonawcze i sądownicze są od siebie oddzielone i powierzone niezależnym od siebie ciałom. W swej dojrzałej formie został opisany w epoce Oświecenia przez Johna Locke’a i
         Monteskiusza. Stał się inspiracją dla konstytucji Stanów Zjednoczonych z 1787 roku. Przeciwstawiany jest modelowi jednolitości państwowej.
     </h2>
-    <div>
-        <button style="margin: 25px;">Władza sądownicza</button>
-        <button style="margin: 25px;">Władza wykonawcza</button>
-        <button style="margin: 25px;">Władza ustawodawcza</button>
+    <div class="flex-container">
+        <button>Władza sądownicza</button>
+        <button>Władza wykonawcza</button>
+        <button>Władza ustawodawcza</button>
     </div>
 </body>
 
