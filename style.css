@@ -1,0 +1,57 @@
+html {
+    background-color: lavender;
+    font-family: 'Comfortaa', cursive;
+}
+
+.container {
+    display: flex;
+    background-color: lavender;
+    justify-content: center;
+}
+
+.container>div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    width: 1000px;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.img2 {
+    background-color: #f2f2f2;
+}
+
+.img1 {
+    border-radius: 10px;
+    border-color: black;
+    float: right;
+}
+
+.tekst1 {
+    font-size: x-large;
+    margin-right: 900px;
+}
+
+h1 {
+    margin: 10px;
+}
+
+.tekst2 {
+    font-size: x-large;
+    margin-right: 900px;
+}
+
+.img4 {
+    float: right;
+    border-radius: 10px;
+}
+
+li {
+    font-size: x-large;
+}
