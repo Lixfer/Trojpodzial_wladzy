@@ -7,6 +7,7 @@ html {
     display: flex;
     background-color: lavender;
     justify-content: center;
+    font-size: 25px;
 }
 
 .container>div {
@@ -34,17 +35,21 @@ html {
 }
 
 .tekst1 {
-    font-size: x-large;
+    font-size: 25px;
     margin-right: 900px;
 }
 
 h1 {
-    margin: 10px;
+    margin: 0px;
 }
 
 .tekst2 {
-    font-size: x-large;
+    font-size: 25px;
     margin-right: 900px;
+}
+
+.wykonawcza {
+    font-size: 25px;
 }
 
 .img4 {
@@ -53,5 +58,18 @@ h1 {
 }
 
 li {
-    font-size: x-large;
+    font-size: 25px;
+}
+
+table,
+td,
+th {
+    border: 1px rgb(51, 49, 49) solid;
+    margin-left: 90px;
+    font-size: 25px;
+    border-radius: 8px;
+    text-align: left;
+    width: 600px;
+    font-size: 20px;
+    margin: auto;
 }
