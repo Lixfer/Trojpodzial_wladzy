@@ -7,4 +7,4 @@ Utwórz stronę internetową, w której zawrzesz:
 - obrazy;
 
 Informacje zaczerpnięte z: https://www.wikipedia.org/
-Link: https://lixfer.github.io/Trojpodzial_wladz-
+Link: https://lixfer.github.io/Trojpodzial_wladzy/
